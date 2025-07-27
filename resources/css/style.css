@@ -23,6 +23,11 @@ body {
     color: #005000;
 }
 
+.information {
+    font-size: 21px;
+    color: #005000;
+}
+
 /* LINKS */ 
 
 .link--cta {
